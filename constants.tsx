@@ -1,5 +1,5 @@
 
-import { Salad, Bonus, FAQItem } from './types';
+import { Salad, Bonus, FAQItem } from './types.ts';
 
 export const SALADS: Salad[] = [
   { image: "https://i.ibb.co/sdjrJwTL/SALADA-REFRESCANTE.webp", description: "Salada Refrescante + Molho Cítrico" },

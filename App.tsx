@@ -14,7 +14,8 @@ import {
   ChevronLeft,
   ChevronRight
 } from 'lucide-react';
-import { SALADS, BONUSES, TESTIMONIALS, FAQS } from './constants';
+// Importação com extensão explícita para compatibilidade com Vercel/ES Modules
+import { SALADS, BONUSES, TESTIMONIALS, FAQS } from './constants.tsx';
 
 const App: React.FC = () => {
   const [timeLeft, setTimeLeft] = useState(18 * 60); // 18 minutes in seconds
