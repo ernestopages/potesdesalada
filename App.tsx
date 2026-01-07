@@ -20,7 +20,7 @@ import { SALADS, BONUSES, TESTIMONIALS, FAQS } from './constants.tsx';
 const App: React.FC = () => {
   const [timeLeft, setTimeLeft] = useState(18 * 60); // 18 minutes in seconds
   const carouselRef = useRef<HTMLDivElement>(null);
-  const REDIRECT_URL = "https://go.frendz.com.br/9xy9mi66sm";
+  const REDIRECT_URL = "https://indec-digital.mycartpanda.com/checkout/205444975:1";
 
   // Helper to get XX, YY and ZZ dates
   const getOfferDaysText = () => {
@@ -293,7 +293,7 @@ const App: React.FC = () => {
                 <img 
                   src="https://i.ibb.co/GQhgj5gp/MOCKUP.webp" 
                   alt="Mockup Guia Saladas" 
-                  className="w-full max-w-lg md:max-w-xl h-auto mx-auto mb-6 transform hover:scale-[1.02] transition-transform duration-500" 
+                  className="w-full max-lg md:max-w-xl h-auto mx-auto mb-6 transform hover:scale-[1.02] transition-transform duration-500" 
                 />
                 
                 <div className="inline-flex flex-col items-start gap-3 text-left max-w-sm mx-auto mb-6">
@@ -374,7 +374,7 @@ const App: React.FC = () => {
               <span className="text-green-600">Saladas da Laura</span>
             </h2>
             <div className="space-y-4 text-gray-700 text-sm md:text-lg leading-relaxed font-regular">
-              <p>“Meu nome é Laura Aurora e, por muito tempo, dieta significava sofrimento pra mim. Eu tentava, falhava, me culpava… e desistia. Não foi contando calorias que emagreci. Foi organizando minha alimentação e da minha família com saladas no pote que saciam de verdade. Elas funcionaram tão bem que começaram a fazer sucesso na internet e acabou se tornando minha nova fonte de renda e que me gera cerca de R$4.500 todo mês com encomendas… Criei esse guia para mulheres comuns, como eu, que querem comer melhor sem viver em dieta chata e até mesmo fazer uma renda extra com isso.”</p>
+              <p>“Meu nome é Laura Aurora e, por muito tempo, dieta significava sofrimento pra mim. Eu tentava, falhava, me culpava… e desistia. No foi contando calorias que emagreci. Foi organizando minha alimentação e da minha família com saladas no pote que saciam de verdade. Elas funcionaram tão bem que começaram a fazer sucesso na internet e acabou se tornando minha nova fonte de renda e que me gera cerca de R$4.500 todo mês com encomendas… Criei esse guia para mulheres comuns, como eu, que querem comer melhor sem viver em dieta chata e até mesmo fazer uma renda extra com isso.”</p>
             </div>
           </div>
         </div>
