@@ -100,7 +100,7 @@ const App: React.FC = () => {
           
           <div className="mb-8 rounded-2xl overflow-hidden shadow-2xl ring-2 ring-green-100 max-w-2xl mx-auto">
             <img 
-              src="https://i.ibb.co/LXYWJYTP/CAPA.webp" 
+              src="https://res.cloudinary.com/drcqck3r9/image/upload/v1769281586/CAPA_nqbngv.webp" 
               alt="Capa Saladas no Pote" 
               className="w-full h-auto object-cover"
               loading="eager"
@@ -149,7 +149,7 @@ const App: React.FC = () => {
 
             <div className="rounded-2xl overflow-hidden shadow-2xl max-w-2xl mx-auto border-4 border-white mt-4">
               <img 
-                src="https://i.ibb.co/XxPJGX3b/ORDEM-DE-MONTAGEM.webp" 
+                src="https://res.cloudinary.com/drcqck3r9/image/upload/v1769281586/ORDEM_DE_MONTAGEM_l4pnif.webp" 
                 alt="Ordem de Montagem" 
                 className="w-full h-auto"
                 loading="lazy"
@@ -212,7 +212,7 @@ const App: React.FC = () => {
             OS MOLHOS MAIS <span className="font-bold text-green-700">IRRESISTÍVEIS</span> PARA CONQUISTAR A SUA <span className="font-bold text-green-700">FAMÍLIA</span>
           </h2>
           <div className="rounded-2xl overflow-hidden mb-12 shadow-lg max-w-2xl mx-auto">
-            <img src="https://i.ibb.co/NgrmsKS9/molhos-x4.webp" alt="Molhos Irresistíveis" className="w-full h-auto" loading="lazy" />
+            <img src="https://res.cloudinary.com/drcqck3r9/image/upload/v1769281586/molhos_x4_l8gerl.webp" alt="Molhos Irresistíveis" className="w-full h-auto" loading="lazy" />
           </div>
         </div>
       </section>
@@ -291,9 +291,9 @@ const App: React.FC = () => {
               <div className="mb-6 w-full text-center">
                 {/* Mockup Image */}
                 <img 
-                  src="https://i.ibb.co/GQhgj5gp/MOCKUP.webp" 
+                  src="https://res.cloudinary.com/drcqck3r9/image/upload/v1769281588/MOCKUP_g8iyq0.webp" 
                   alt="Mockup Guia Saladas" 
-                  className="w-full max-lg md:max-w-xl h-auto mx-auto mb-6 transform hover:scale-[1.02] transition-transform duration-500" 
+                  className="w-full max-w-lg md:max-w-xl h-auto mx-auto mb-6 transform hover:scale-[1.02] transition-transform duration-500" 
                 />
                 
                 <div className="inline-flex flex-col items-start gap-3 text-left max-w-sm mx-auto mb-6">
@@ -361,7 +361,7 @@ const App: React.FC = () => {
           <div className="w-full md:w-1/2">
             <div className="rounded-3xl overflow-hidden shadow-2xl">
               <img 
-                src="https://i.ibb.co/39Cf5BXd/Gemini-Generated-Image-zh1o78zh1o78zh1o.png" 
+                src="https://res.cloudinary.com/drcqck3r9/image/upload/v1769281592/EXPERT_vvxeoj.webp" 
                 alt="Laura Aurora" 
                 className="w-full h-auto"
                 loading="lazy"
@@ -374,7 +374,7 @@ const App: React.FC = () => {
               <span className="text-green-600">Saladas da Laura</span>
             </h2>
             <div className="space-y-4 text-gray-700 text-sm md:text-lg leading-relaxed font-regular">
-              <p>“Meu nome é Laura Aurora e, por muito tempo, dieta significava sofrimento pra mim. Eu tentava, falhava, me culpava… e desistia. No foi contando calorias que emagreci. Foi organizando minha alimentação e da minha família com saladas no pote que saciam de verdade. Elas funcionaram tão bem que começaram a fazer sucesso na internet e acabou se tornando minha nova fonte de renda e que me gera cerca de R$4.500 todo mês com encomendas… Criei esse guia para mulheres comuns, como eu, que querem comer melhor sem viver em dieta chata e até mesmo fazer uma renda extra com isso.”</p>
+              <p>“Meu nome é Laura Aurora e, por muito tempo, dieta significava sofrimento pra mim. Eu tentava, falhava, me culpava… e desistia. Não foi contando calorias que emagreci. Foi organizando minha alimentação e da minha família com saladas no pote que saciam de verdade. Elas funcionaram tão bem que começaram a fazer sucesso na internet e acabou se tornando minha nova fonte de renda e que me gera cerca de R$4.500 todo mês com encomendas… Criei esse guia para mulheres comuns, como eu, que querem comer melhor sem viver em dieta chata e até mesmo fazer uma renda extra com isso.”</p>
             </div>
           </div>
         </div>

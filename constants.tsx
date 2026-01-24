@@ -2,12 +2,12 @@
 import { Salad, Bonus, FAQItem } from './types.ts';
 
 export const SALADS: Salad[] = [
-  { image: "https://i.ibb.co/sdjrJwTL/SALADA-REFRESCANTE.webp", description: "Salada Refrescante + Molho Cítrico" },
-  { image: "https://i.ibb.co/B5BZTkDQ/SALADA-R-STICA.png", description: "Salada Rústica + Mostarda e Mel" },
-  { image: "https://i.ibb.co/sB6NSpf/SALADA-CAESAR.webp", description: "Salada Caesar + Molho Original" },
-  { image: "https://i.ibb.co/Vc37CTwS/SALADA-BIG-MAC.webp", description: "Salada Big Mac + Molho Especial" },
-  { image: "https://i.ibb.co/FbDfLGjS/SALADA-MEDITERR-NEA.webp", description: "Salada Mediterrânea + Molho Agridoce" },
-  { image: "https://i.ibb.co/SGcL8W4/SALADA-TOSCANA.webp", description: "Salada Toscana + Molho Siciliano" },
+  { image: "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281590/SALADA_REFRESCANTE_m2tr4y.webp", description: "Salada Refrescante + Molho Cítrico" },
+  { image: "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281592/SALADA_R%C3%9ASTICA_f4v0ue.png", description: "Salada Rústica + Mostarda e Mel" },
+  { image: "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281588/SALADA_CAESAR_s0wris.webp", description: "Salada Caesar + Molho Original" },
+  { image: "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281587/SALADA_BIG_MAC_ypwhan.webp", description: "Salada Big Mac + Molho Especial" },
+  { image: "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281589/SALADA_MEDITERR%C3%82NEA_vbmdys.webp", description: "Salada Mediterrânea + Molho Agridoce" },
+  { image: "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281592/SALADA_TOSCANA_xa1spv.webp", description: "Salada Toscana + Molho Siciliano" },
 ];
 
 export const BONUSES: Bonus[] = [
@@ -17,12 +17,12 @@ export const BONUSES: Bonus[] = [
 ];
 
 export const TESTIMONIALS: string[] = [
-  "https://i.ibb.co/GQzgLQLb/1.webp",
-  "https://i.ibb.co/C3rz9cXj/2.webp",
-  "https://i.ibb.co/cSVqcvBw/3.webp",
-  "https://i.ibb.co/MdXyK9N/4.webp",
-  "https://i.ibb.co/Z1c0xYCM/5.webp",
-  "https://i.ibb.co/ycLQxDM2/6.webp",
+  "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281593/1_upd6ga.webp",
+  "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281594/2_dbtaar.webp",
+  "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281595/3_nvuiio.webp",
+  "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281596/4_ctiosy.webp",
+  "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281597/5_uisjhr.webp",
+  "https://res.cloudinary.com/drcqck3r9/image/upload/v1769281597/6_cu2jfm.webp",
 ];
 
 export const FAQS: FAQItem[] = [
